@@ -24,4 +24,4 @@ $("#title ").on("dblclick", function(event){
   });
 });
 
-}
+});
