@@ -1,0 +1,106 @@
+body{
+  font-family: 'Quicksand', sans-serif;
+  color: white;
+
+}
+
+
+
+nav a{
+  padding-left: 30px;
+}
+
+.titulo-nav{
+  font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.titulo-footer{
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.navbar-nav{
+  padding-left: 390px;
+}
+
+.section-h1{
+  background-color: black;
+  height: 180px;
+}
+
+.section-parrafos{
+  background-color: black;
+
+}
+
+
+
+.section-cards{
+  background-color: black;
+  margin: 0;
+  padding: auto;
+}
+.icono{
+
+}
+
+nav svg{
+  fill: white;
+  stroke: white;
+  height: 2rem;
+color: white;
+}
+
+.svg-color{
+  fill: white;
+}
+button{
+  margin-left: 74px;
+text-decoration: none;
+}
+
+.card{
+color: black;
+}
+
+.section-formulario{
+  background-color: black;
+}
+.icon1-footer{
+  padding-left: 200px;
+}
+
+.image-concerto{
+  height: 170px;
+}
+
+.image-minga{
+  height: 170px;
+}
+
+.equipamiento-section{
+  background-color: black;
+}
+
+a i{
+  color: white;
+}
+
+button a{
+  color:white;
+}
+
+hr{
+color:white;
+display: block;
+margin-top: 0.5em;
+margin-bottom: 0.5em;
+margin-left: auto;
+margin-right: auto;
+border-style: inset;
+border-width: 1px;
+}
+
+.iconos-footer{
+  padding-right: 100px;
+}
