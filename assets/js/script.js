@@ -23,3 +23,5 @@ $("#title ").on("dblclick", function(event){
     "color" : "red",
   });
 });
+
+});
