@@ -1,9 +1,13 @@
 body{
   font-family: 'Quicksand', sans-serif;
   color: white;
+  position:
 
 }
 
+header{
+height:
+}
 
 
 nav a{
@@ -25,7 +29,7 @@ nav a{
 
 .section-h1{
   background-color: black;
-  height: 180px;
+
 }
 
 .section-parrafos{
@@ -33,7 +37,11 @@ nav a{
 
 }
 
+.carousel-margen{
 
+  padding: auto;
+  margin-bottom: 0px;
+}
 
 .section-cards{
   background-color: black;
@@ -103,4 +111,8 @@ border-width: 1px;
 
 .iconos-footer{
   padding-right: 100px;
+}
+
+.carousel-item{
+  height: 500px;
 }
